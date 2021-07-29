@@ -1,3 +1,3 @@
 # Kinomonster
 
-https://elenasamanchuk.github.io/Kinomonster/
+https://elenasamanchuk.github.io/kinomonster/
